@@ -1,0 +1,94 @@
+Notes,Leading Cancer Sites,Leading Cancer Sites Code,State,State Code,Year,Year Code,Mortality-Incidence Age-Adjusted Rate Ratio,Death Counts,Mortality Population,Mortality Age-Adjusted Rate,Incidence Counts,Incidence Population,Incidence Age-Adjusted Rate
+,Stomach,21020,District of Columbia,11,1999,1999,0.687,48,570213,8.621,70,570213,12.553
+,Stomach,21020,District of Columbia,11,2000,2000,0.674,41,572046,7.319,61,572046,10.862
+,Stomach,21020,District of Columbia,11,2001,2001,0.683,40,574504,7.049,58,574504,10.316
+,Stomach,21020,District of Columbia,11,2002,2002,0.761,48,573158,8.468,62,573158,11.133
+,Stomach,21020,District of Columbia,11,2003,2003,0.472,25,568502,4.391,52,568502,9.312
+,Stomach,21020,District of Columbia,11,2004,2004,0.877,35,567754,6.243,38,567754,7.121
+,Stomach,21020,District of Columbia,11,2005,2005,0.663,33,567136,6.061,51,567136,9.147
+,Stomach,21020,District of Columbia,11,2006,2006,0.439,22,570681,4.09,51,570681,9.306
+,Stomach,21020,District of Columbia,11,2007,2007,0.6,31,574404,5.249,51,574404,8.746
+,Stomach,21020,District of Columbia,11,2008,2008,0.593,26,580236,4.651,43,580236,7.847
+,Stomach,21020,District of Columbia,11,2009,2009,0.642,28,592228,4.981,43,592228,7.762
+,Stomach,21020,District of Columbia,11,2010,2010,0.344,18,605282,3.267,56,605282,9.493
+,Stomach,21020,District of Columbia,11,2011,2011,0.544,29,620290,5.037,55,620290,9.26
+,Stomach,21020,District of Columbia,11,2012,2012,0.512,27,635737,4.41,54,635737,8.609
+,Stomach,21020,District of Columbia,11,2013,2013,0.725,35,651559,6.305,52,651559,8.691
+,Stomach,21020,District of Columbia,11,2014,2014,0.575,37,663603,5.636,62,663603,9.799
+,Stomach,21020,District of Columbia,11,2015,2015,0.548,31,677014,4.677,58,677014,8.534
+,Stomach,21020,District of Columbia,11,2016,2016,0.522,29,687576,4.428,59,687576,8.476
+,Stomach,21020,District of Columbia,11,2017,2017,0.44,22,697079,3.251,49,697079,7.395
+,Stomach,21020,District of Columbia,11,2018,2018,0.688,30,704147,4.486,43,704147,6.519
+,Stomach,21020,District of Columbia,11,2019,2019,0.567,24,708253,3.561,45,708253,6.287
+---,,,,,,,,,,,,,
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2020 Mortality Incidence Rate Ratios",,,,,,,,,,,,,
+Query Parameters:,,,,,,,,,,,,,
+Leading Cancer Sites: Stomach,,,,,,,,,,,,,
+State: District of Columbia (11),,,,,,,,,,,,,
+Group By: Leading Cancer Sites; State; Year,,,,,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,,,,,
+Show Zero Values: False,,,,,,,,,,,,,
+Show Suppressed: False,,,,,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,,,,,
+Standard Population: 2000 U.S. Std. Million,,,,,,,,,,,,,
+---,,,,,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/CancerMIR-v2020.html for more information.,,,,,,,,,,,,,
+---,,,,,,,,,,,,,
+"Query Date: Apr 16, 2024 2:12:24 AM",,,,,,,,,,,,,
+---,,,,,,,,,,,,,
+"Suggested Citation: United States Cancer Statistics - Mortality Incidence Rate Ratios: 1999 - 2020, WONDER Online Database.",,,,,,,,,,,,,
+"United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute;",,,,,,,,,,,,,
+"2022 submission; 2023 release. Accessed at http://wonder.cdc.gov/CancerMIR-v2020.html on Apr 16, 2024 2:12:24 AM",,,,,,,,,,,,,
+---,,,,,,,,,,,,,
+Messages:,,,,,,,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,,,,,
+2. Rows with suppressed Incidence Counts are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,,,,,
+---,,,,,,,,,,,,,
+Footnotes:,,,,,,,,,,,,,
+1. Caution should be used when interpreting these Mortality Incidence Rate Ratios as coding for death certificates and cancer,,,,,,,,,,,,,
+incidence records may vary significantly. The cancer incidence records are likely to be coded to a more specific topographic,,,,,,,,,,,,,
+site which may give a false impression of an elevated rate ratio. Ratio values greater than 1 are flagged as Unreliable.,,,,,,,,,,,,,
+---,,,,,,,,,,,,,
+Caveats:,,,,,,,,,,,,,
+"1. Statistics are suppressed to protect personal privacy, for the following conditions: <ol><li> Data are suppressed if the",,,,,,,,,,,,,
+figures represent fewer than 16 cases for the specific category in the table cell. </li><li> Counts and rates are suppressed for,,,,,,,,,,,,,
+"cells at the Metropolitan Statistical Area (MSA) level for the race categories ""American Indian or Alaska Native"" or ""Asian",,,,,,,,,,,,,
+"or Pacific Islander"" when the specific category's population for rate calculations is less than 50,000 persons. </li><li> Data",,,,,,,,,,,,,
+are suppressed at the state and MSA level for certain race and ethnicity groups: <ul><li> American Indian or Alaska Native data,,,,,,,,,,,,,
+"are suppressed at the state and MSA level for residents of Illinois, Kansas, New Jersey, and New York; </li><li> Hispanic Asian",,,,,,,,,,,,,
+or Pacific Islander and Hispanic Black or African American data are suppressed at the state and MSA level for residents of,,,,,,,,,,,,,
+Kansas; </li><li> Race by ethnicity data are suppressed for state specific statistics for residents of North Dakota and,,,,,,,,,,,,,
+Wisconsin. Ethnicity data are also suppressed for residents of North Dakota and Wisconsin. </li></ul> </li></ol> States decide,,,,,,,,,,,,,
+whether to suppress data for specific race and ethnicity categories. The suppression criteria may vary in previous releases of,,,,,,,,,,,,,
+these data More information: http://wonder.cdc.gov/wonder/help/CancerMIR-v2020.html#Confidentiality.,,,,,,,,,,,,,
+"2. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites because aggregate values are displayed in the",,,,,,,,,,,,,
+table. Also be aware that charts and maps containing both aggregate and detail data could be misleading.,,,,,,,,,,,,,
+"3. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were",,,,,,,,,,,,,
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:",,,,,,,,,,,,,
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may",,,,,,,,,,,,,
+"differ slightly from those published by NCHS. In addition, under the International Classification of Diseases (ICD), there are",,,,,,,,,,,,,
+"differences in mortality and incidence coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the",,,,,,,,,,,,,
+"primary site). However in ICD-O-3, one code captures all of the primary sites that mesothelioma affects. Note that Kaposi",,,,,,,,,,,,,
+"sarcoma deaths included in this dataset are only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and",,,,,,,,,,,,,
+"do not include deaths where the condition was a contributing cause of death, or subsequent to another underlying condition.",,,,,,,,,,,,,
+"</li><li> The population used to age-adjust the rates in this report is the 2000 U.S. standard population, which is in",,,,,,,,,,,,,
+accordance with a 1998 recommendation of the US. Department of Health and Human Services. The 2000 U.S. standard population is,,,,,,,,,,,,,
+"based on the proportion of the 2000 population in specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years,",,,,,,,,,,,,,
+"15-19 years, . . . 85 years or older); the proportions of the 2000 population in these age groups serve as weights for",,,,,,,,,,,,,
+"calculating age-adjusted incidence and death rates. NCHS, however, uses a different set of age groups in its age adjustment of",,,,,,,,,,,,,
+"death rates, and thus the cancer death rates in this report may differ slightly from those published by NCHS. </li><li> Deaths",,,,,,,,,,,,,
+of persons of unknown age are not included in this data set. Death rates may differ slightly from other reports where deaths of,,,,,,,,,,,,,
+persons of unknown age are included. </li></ul>,,,,,,,,,,,,,
+"4. Cancer incidence counts, populations, and rates may differ from those found in the United States Cancer Statistics incidence",,,,,,,,,,,,,
+"reports and data, because these data include only those specific cancer sites that can be linked to the mortality data. For",,,,,,,,,,,,,
+"example, in situ breast cancers are not included, and the appendix is not specified as a cancer site here.",,,,,,,,,,,,,
+"5. Cancer mortality counts, populations, and rates may differ from those found in the United States Cancer Statistics mortality",,,,,,,,,,,,,
+"reports and data, because these data include only those specific reporting populations that can be linked to the incidence data.",,,,,,,,,,,,,
+"For example, cancer incidence data are not available for all places and years.",,,,,,,,,,,,,
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and",,,,,,,,,,,,,
+Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for,,,,,,,,,,,,,
+"these states, nor are these counts included in the summary populations for the affected division, regions or national",,,,,,,,,,,,,
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005.",,,,,,,,,,,,,
+7. Incidence data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Data,,,,,,,,,,,,,
+"shown for the United States are diagnoses, deaths and populations only from places and years for included cancer registries.",,,,,,,,,,,,,
